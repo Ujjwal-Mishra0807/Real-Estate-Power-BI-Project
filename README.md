@@ -43,6 +43,7 @@ The objective of this dashboard is to provide leadership with a thorough underst
 4.	Sustain a balanced inventory across condos, townhomes, and single-family homes to mitigate demand shifts.
 
    ## 6. Project Screenshot!
+   (https://github.com/Ujjwal-Mishra0807/Real-Estate-Power-BI-Project/blob/main/Dashboard%20Screenshots/Real%20Estate.png)
 
 
 
