@@ -22,7 +22,7 @@ The objective of this dashboard is to provide leadership with a thorough underst
     
 6.	Waterfall Chart (Lower Right): Compare how different property types are performing (e.g., Sold vs For Sale vs Pending) to identify which types are moving fastest.
 
-   ## 4. Key Insights:
+## 4. Key Insights:
 
 1.	Out of 3000 properties, 1045 are sold (34.83%), 998 are pending (33.27%), and 957 are for sale (31.90%).
       
@@ -32,7 +32,7 @@ The objective of this dashboard is to provide leadership with a thorough underst
    
 4. Price trends fluctuate, and sales are distributed across property types.
 
-   ## 5. Recommendations:
+## 5. Recommendations:
 
 1.	Prioritise follow-ups on pending listings to expedite closings.
    
@@ -42,7 +42,7 @@ The objective of this dashboard is to provide leadership with a thorough underst
 	
 4.	Sustain a balanced inventory across condos, townhomes, and single-family homes to mitigate demand shifts.
 
-   ## 6. Project Screenshot!
+## 6. Project Screenshot!
    ![Dashboard Screeshot](https://github.com/Ujjwal-Mishra0807/Real-Estate-Power-BI-Project/blob/main/Dashboard%20Screenshots/Real%20Estate.png)
 
 
