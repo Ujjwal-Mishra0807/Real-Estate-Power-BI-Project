@@ -46,6 +46,12 @@ The objective of this dashboard is to provide leadership with a thorough underst
    ![Dashboard Screeshot](https://github.com/Ujjwal-Mishra0807/Real-Estate-Power-BI-Project/blob/main/Dashboard%20Screenshots/Real%20Estate.png)
 
 
+**Author:** Ujjwal Mishra
+
+**Email:** ujjwalmishra0807@gmail.com
+
+
+
 
 
 
